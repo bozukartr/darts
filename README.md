@@ -6,6 +6,9 @@
 - Her oyunda başlayan oyuncu rastgele seçilir
 - Her okta vektör tahtada vurulan dilime yakın çekim
 - Bitiriş önerisi, geri al, otomatik kayıt
+- Maç formatı: tek leg, ilk 2 leg ya da ilk 3 leg kazanır
+- Ses efektleri, oyun sırasında ekran açık kalır
+- PWA: ana ekrana yüklenir, internetsiz çalışır
 - Maç sonu özeti: kalan puan grafiği, isabet haritası, ortalamalar, 100+/140+/180
 
 Canlı: https://bozukartr.github.io/darts/
