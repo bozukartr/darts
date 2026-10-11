@@ -2,6 +2,7 @@
 
 2–4 oyunculu, mobil için minimal X01 dart skor tabelası (301 / 501 / 701, double out).
 
+- Ana menü: oyuncu ekle/çıkar, oyun modu kartları, kurallar, devam eden oyun ve maç geçmişi
 - Her oyunda başlayan oyuncu rastgele seçilir
 - Her okta vektör tahtada vurulan dilime yakın çekim
 - Bitiriş önerisi, geri al, otomatik kayıt
